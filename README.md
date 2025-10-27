@@ -59,3 +59,4 @@ Customize the `subject`, `html`, and `attachments` fields in the `sendMail.js` f
 ```bash
 node app.js
 ```
+
